@@ -31,11 +31,18 @@
 ---
 
 ## ⚡ Быстрый старт
+```bash
+- **Node.js** v18 или новее — https://nodejs.org/
 
 ```bash
 # Клонировать репозиторий
 git clone https://github.com/username/repo.git
 
+Проверить версии:
+```bash
+node -v
+npm -v
+```
 # Перейти в папку
 cd repo
 
