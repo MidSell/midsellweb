@@ -45,10 +45,13 @@ node -v
 npm -v
 ```
 # Перейти в папку
+```bash
 cd repo
 
 # Установить зависимости
+```bash
 npm install
 
 # Запустить
+```bash
 npm start
