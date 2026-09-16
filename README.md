@@ -44,6 +44,7 @@ git clone https://github.com/username/repo.git
 node -v
 npm -v
 ```
+```bash
 # Перейти в папку
 ```bash
 cd repo
