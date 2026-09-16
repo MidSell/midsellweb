@@ -31,8 +31,9 @@
 ---
 
 ## ⚡ Быстрый старт
+Установка Node.js:
 ```bash
-- **Node.js** v18 или новее — https://nodejs.org/
+Node.js — https://nodejs.org/
 
 ```bash
 # Клонировать репозиторий
